@@ -4,7 +4,7 @@ If all the nodes are  on, the AI will jump.
 
 ![](gif/Geometry_dash_exemple.gif)
   
-this is what the ai that ended the level had: 
+this is what the ai that ended the level had:  
 ![](gif/Geometry_dash_exemple_final.gif)
 
 
